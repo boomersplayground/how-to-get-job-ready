@@ -16,6 +16,7 @@ This is what I wish I knew about when I was learning (and i'm paid to develop no
 * Hangman game
 * Simon game
 * Weather App using a free weather api (or really anything using a real api)
+* Yahtzee or a dice game you are familiar with
 * A restaurant site with online ordering (don't worry about persisting the data unless you want to this is more to make sure you have a good html/css/js understanding and how they work together)
 
 4.  After you have learned your language with some proficiency and built 3 or 4 projects with just the language pick a framework and continue to progressively learn while building more projects.
